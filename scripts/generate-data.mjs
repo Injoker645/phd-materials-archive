@@ -204,16 +204,31 @@ const META = {
   },
 };
 
-const PORTAL_MAP = {
-  "nyu-cds-medical": "NYU- Data Science.txt",
-  "bu-cds": "BU CDS.txt",
-  "cmu-scs": "CMU - Ph.D. Program in Machine Learning (MLD).txt",
-  "cmu-societal-computing": "CMU - Societal Computing PhD (S3D).txt",
-  "harvard-aim": "Harvard BMI - AIM track (PhD Biomedical Informatics).txt",
-  "jhu-cs": "JHU CS (Whiting School).txt",
-  "mount-sinai-aiet": "Mount Sinai - PhD Biomedical Sciences (AIET training area).txt",
-  "upenn-gcb": "UPenn - PhD Genomics & Computational Biology (BMI track interest).txt",
+/** Match portal instruction files by keywords (filenames may use Unicode dashes). */
+const PORTAL_MATCH = {
+  "nyu-cds-medical": ["nyu", "data science"],
+  "bu-cds": ["bu cds"],
+  "cmu-scs": ["machine learning", "mld"],
+  "cmu-societal-computing": ["societal computing"],
+  "harvard-aim": ["harvard", "aim"],
+  "jhu-cs": ["jhu cs"],
+  "mount-sinai-aiet": ["mount sinai"],
+  "upenn-gcb": ["upenn", "genomics"],
 };
+
+const portalFiles = fs.existsSync(path.join(materials, "portal-instructions"))
+  ? fs.readdirSync(path.join(materials, "portal-instructions")).filter((f) => f.endsWith(".txt") && f !== "blank.txt")
+  : [];
+
+function findPortalFile(id) {
+  const keys = PORTAL_MATCH[id];
+  if (!keys) return null;
+  const hit = portalFiles.find((f) => {
+    const lower = f.toLowerCase();
+    return keys.every((k) => lower.includes(k.toLowerCase()));
+  });
+  return hit || null;
+}
 
 function walkFiles(dir, base = dir) {
   const out = [];
@@ -259,8 +274,8 @@ const programs = Object.keys(STATE_MAP).map((id) => {
     type: typeFromExt(rel),
   }));
 
-  const portal = PORTAL_MAP[id];
-  if (portal && fs.existsSync(path.join(materials, "portal-instructions", portal))) {
+  const portal = findPortalFile(id);
+  if (portal) {
     docs.push({
       title: "Portal instructions",
       path: `/materials/portal-instructions/${portal}`,

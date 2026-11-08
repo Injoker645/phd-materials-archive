@@ -219,6 +219,11 @@
         "title": "Verification Notes",
         "path": "/materials/programs/mount-sinai-aiet/verification-notes.md",
         "type": "md"
+      },
+      {
+        "title": "Portal instructions",
+        "path": "/materials/portal-instructions/Mount Sinai — PhD Biomedical Sciences (AIET training area).txt",
+        "type": "txt"
       }
     ]
   },
@@ -391,6 +396,11 @@
         "title": "Verification Notes",
         "path": "/materials/programs/harvard-aim/verification-notes.md",
         "type": "md"
+      },
+      {
+        "title": "Portal instructions",
+        "path": "/materials/portal-instructions/Harvard BMI — AIM track (PhD Biomedical Informatics).txt",
+        "type": "txt"
       }
     ]
   },
@@ -568,6 +578,11 @@
         "title": "Verification Notes",
         "path": "/materials/programs/cmu-scs/verification-notes.md",
         "type": "md"
+      },
+      {
+        "title": "Portal instructions",
+        "path": "/materials/portal-instructions/CMU — Ph.D. Program in Machine Learning (MLD).txt",
+        "type": "txt"
       }
     ]
   },
@@ -607,6 +622,11 @@
         "title": "07 Portal Requirements",
         "path": "/materials/programs/cmu-societal-computing/07-portal-requirements.md",
         "type": "md"
+      },
+      {
+        "title": "Portal instructions",
+        "path": "/materials/portal-instructions/CMU — Societal Computing PhD (S3D).txt",
+        "type": "txt"
       }
     ]
   },
@@ -646,6 +666,11 @@
         "title": "07 Portal Requirements",
         "path": "/materials/programs/upenn-gcb/07-portal-requirements.md",
         "type": "md"
+      },
+      {
+        "title": "Portal instructions",
+        "path": "/materials/portal-instructions/UPenn — PhD Genomics & Computational Biology (BMI track interest).txt",
+        "type": "txt"
       }
     ]
   },
