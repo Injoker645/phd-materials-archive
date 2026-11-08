@@ -33,3 +33,8 @@ node scripts/generate-data.mjs
 ## Stack
 
 Vite + React + TypeScript, react-router, react-markdown.
+
+## Live
+
+- Local: `npm run preview` ? http://127.0.0.1:4173/
+- GitHub Pages (after Actions deploy): https://injoker645.github.io/phd-materials-archive/
