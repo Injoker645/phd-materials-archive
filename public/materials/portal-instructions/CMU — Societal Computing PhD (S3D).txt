@@ -1,0 +1,87 @@
+CMU — Societal Computing PhD (S3D):
+Program Interests
+Select Areas of Interest that are most closely related to your current interest.
+
+You must select one area of interest and can optionally indicate up to two others.
+This does not limit your application to any specific area, but rather will give the admissions committee a general idea of your interests.
+
+
+1st Choice
+Al and Society
+Applied Systems and Infrastructure
+Complex Socio-Technical Systems
+Computing Technology and Policy
+Inclusive Technology Workplace
+Machine Learning
+ML Methods, ML Theory and Applications in Healthcare Systems (embedded) Mobile, Medical Applications
+Network Science and Social Networks
+Privacy and Security
+Security
+
+Faculty of Interest
+Select Faculty of Interest whose research most closely matches your interest or who might be a potential advisor if you are admitted:
+
+You must select two faculty of interest and can optionally indicate one other faculty member.
+This does not limit your application to any specific faculty member or guarantee that a particular faculty member would be your advisor if you are admitted. It only gives the admissions committee a more specific idea of your research interests.
+
+
+Andrew Begel Andrew Ilyas
+Bogdan Vasilescu
+Cleotilde Gonzalez
+Fei Fang
+Fraser Brown
+Hanan Hibshi
+Hoda Heidari
+Joe Calandrino
+Justin Chan
+Kathleen Carley
+Lorrie Cranor
+Lujo Bauer
+Mayank Goel
+Motahhare Eslami
+Nicolas Christin
+Niloofar Mireshghallah
+Norman Sadeh
+Patrick Park
+Rayid Ghani
+Riccardo Paccagnella
+Sarah Cen
+Sarah Scheffler
+Steven Wu
+Travis Breaux
+Yuvraj Agarwal
+
+
+Recommendations
+Please send the email requests to your recommenders as early as possible and well before the application deadline.
+Three letters of recommendation are required. At least two should be from faculty or recent employers. Recommenders should know you relatively well and be able to evaluate the quality of your academic and professional abilities. 
+
+All letters of recommendation must be submitted electronically through this application. Select your recommenders carefully and type their email addresses correctly. We do not accept recommendations from Interfolio.
+
+Note: If your recommender agrees, then their Letter of Recommendation can be attached to multiple SCS applications within this system. After they submit the letter, you can pull up your second application and find a drop-down list called "Import Previous Recommendation." This will allow you to attach that one letter to multiple applications.
+
+
+Resume
+
+Submit your current resume in PDF or Word format. Outline your education, research experience, work experience, publications, scholarships awarded, prizes and honors received, society memberships, and extracurricular activities.
+
+Note: Links embedded into text will not be readable due to security reasons. Please list any URL that you would like the admissions committee to see at the bottom of your document. 
+
+Statement of Purpose
+
+Prepare a concise one or two page essay in PDF or Word format that describes your primary areas of interest, your related experiences, and your objective in pursuing a graduate degree at Carnegie Mellon. Your essay should include your name and be specific in describing your interests and motivations. When describing your interests, you should explain why you think they are important areas of study and why you are particularly well-suited to pursue them. You should describe any relevant education, research, commercial, government, or teaching experience.
+
+Our review committees in every program value applicants who display persistence and resilience in the face of challenge and adversity, demonstrate a commitment to ethics, show concern for others and for their community, and/or exhibit leadership in one or more endeavors.
+No file chosen
+
+Optional Supporting Documents and Materials
+Optionally, you may provide additional documents to highlight unusual strengths or perspectives, such as research, industry, government or other experience.
+No file chosen
+
+Optional Open Source Artifacts
+If you have a profile on GitHub or a similar site that could speak to your programming experience, please add a link to your profile (include https://).
+Publications
+List up to six, relevant publications, including journal, conference papers, thesis, or technical reports.
+Authors	Title	Type	Updated Date
+Add New
+Publications - If a URL is not available above please upload the publication below.

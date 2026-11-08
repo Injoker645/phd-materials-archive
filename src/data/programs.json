@@ -1,0 +1,968 @@
+[
+  {
+    "id": "nyu-cds-medical",
+    "name": "NYU CDS — Medical School Track",
+    "university": "New York University",
+    "state": "ny",
+    "country": "US",
+    "stage": "Drafting #2",
+    "deadline": "3 Dec 2026, 5pm ET",
+    "fee": "$130 (waiver pending)",
+    "fundingNotes": "Stipend FAQ $41,832 (2025–26 nine-month).",
+    "greNotes": "Not required (considered if submitted).",
+    "documents": [
+      {
+        "title": "00 Program",
+        "path": "/materials/programs/nyu-cds-medical/00-program.md",
+        "type": "md"
+      },
+      {
+        "title": "01 Faculty",
+        "path": "/materials/programs/nyu-cds-medical/01-faculty.md",
+        "type": "md"
+      },
+      {
+        "title": "04 Sop Draft",
+        "path": "/materials/programs/nyu-cds-medical/04-sop-draft.md",
+        "type": "md"
+      },
+      {
+        "title": "05 Outreach",
+        "path": "/materials/programs/nyu-cds-medical/05-outreach.md",
+        "type": "md"
+      },
+      {
+        "title": "06 Sop Prep",
+        "path": "/materials/programs/nyu-cds-medical/06-sop-prep.md",
+        "type": "md"
+      },
+      {
+        "title": "07 Portal Requirements",
+        "path": "/materials/programs/nyu-cds-medical/07-portal-requirements.md",
+        "type": "md"
+      },
+      {
+        "title": "Cho Brief",
+        "path": "/materials/programs/nyu-cds-medical/history/cho-brief.md",
+        "type": "md"
+      },
+      {
+        "title": "Cho Email Draft V2 Personal",
+        "path": "/materials/programs/nyu-cds-medical/history/cho-email-draft-v2-personal.md",
+        "type": "md"
+      },
+      {
+        "title": "Cho Email Draft",
+        "path": "/materials/programs/nyu-cds-medical/history/cho-email-draft.md",
+        "type": "md"
+      },
+      {
+        "title": "Claims Audit",
+        "path": "/materials/programs/nyu-cds-medical/history/claims-audit.md",
+        "type": "md"
+      },
+      {
+        "title": "Draft A Research Forward",
+        "path": "/materials/programs/nyu-cds-medical/history/draft-A-research-forward.md",
+        "type": "md"
+      },
+      {
+        "title": "Draft B Narrative Forward",
+        "path": "/materials/programs/nyu-cds-medical/history/draft-B-narrative-forward.md",
+        "type": "md"
+      },
+      {
+        "title": "Draft C Hybrid",
+        "path": "/materials/programs/nyu-cds-medical/history/draft-C-hybrid.md",
+        "type": "md"
+      },
+      {
+        "title": "My Cds Faculty Followups 2026 10",
+        "path": "/materials/programs/nyu-cds-medical/history/my-cds-faculty-followups-2026-10.md",
+        "type": "md"
+      },
+      {
+        "title": "My Cds Faculty Notes",
+        "path": "/materials/programs/nyu-cds-medical/history/my-cds-faculty-notes.md",
+        "type": "md"
+      },
+      {
+        "title": "NYU PhD Data Science SoP",
+        "path": "/materials/programs/nyu-cds-medical/history/NYU PhD Data Science SoP.pdf",
+        "type": "pdf"
+      },
+      {
+        "title": "Nyu Cds Faculty Screen 2026 09",
+        "path": "/materials/programs/nyu-cds-medical/history/nyu-cds-faculty-screen-2026-09.md",
+        "type": "md"
+      },
+      {
+        "title": "Nyu Program And Lab Intel",
+        "path": "/materials/programs/nyu-cds-medical/history/nyu-program-and-lab-intel.md",
+        "type": "md"
+      },
+      {
+        "title": "Oermann Followup",
+        "path": "/materials/programs/nyu-cds-medical/history/oermann-followup.md",
+        "type": "md"
+      },
+      {
+        "title": "Persona Critique",
+        "path": "/materials/programs/nyu-cds-medical/history/persona-critique.md",
+        "type": "md"
+      },
+      {
+        "title": "Requirements",
+        "path": "/materials/programs/nyu-cds-medical/history/requirements.md",
+        "type": "md"
+      },
+      {
+        "title": "Personal History",
+        "path": "/materials/programs/nyu-cds-medical/personal-history.md",
+        "type": "md"
+      },
+      {
+        "title": "Portal Prompt Quote",
+        "path": "/materials/programs/nyu-cds-medical/portal-prompt-quote.md",
+        "type": "md"
+      },
+      {
+        "title": "README",
+        "path": "/materials/programs/nyu-cds-medical/README.md",
+        "type": "md"
+      },
+      {
+        "title": "Submission: Personal History",
+        "path": "/materials/programs/nyu-cds-medical/SUBMISSION-personal-history.txt",
+        "type": "txt"
+      },
+      {
+        "title": "Submission: Sop",
+        "path": "/materials/programs/nyu-cds-medical/SUBMISSION-sop.txt",
+        "type": "txt"
+      },
+      {
+        "title": "Portal instructions",
+        "path": "/materials/portal-instructions/NYU- Data Science.txt",
+        "type": "txt"
+      }
+    ]
+  },
+  {
+    "id": "mount-sinai-aiet",
+    "name": "Mount Sinai BMS + AIET",
+    "university": "Icahn School of Medicine at Mount Sinai",
+    "state": "ny",
+    "country": "US",
+    "stage": "Drafting #4",
+    "deadline": "~1 Dec 2026 (unconfirmed)",
+    "fee": "Fee waived",
+    "fundingNotes": "Institutional/grant funding; health insurance fee listed $0 on program materials.",
+    "greNotes": "Not required.",
+    "documents": [
+      {
+        "title": "00 Program",
+        "path": "/materials/programs/mount-sinai-aiet/00-program.md",
+        "type": "md"
+      },
+      {
+        "title": "00 Review Notes",
+        "path": "/materials/programs/mount-sinai-aiet/00-review-notes.md",
+        "type": "md"
+      },
+      {
+        "title": "01 Faculty",
+        "path": "/materials/programs/mount-sinai-aiet/01-faculty.md",
+        "type": "md"
+      },
+      {
+        "title": "02 Thesis Adaptation",
+        "path": "/materials/programs/mount-sinai-aiet/02-thesis-adaptation.md",
+        "type": "md"
+      },
+      {
+        "title": "03 Hook",
+        "path": "/materials/programs/mount-sinai-aiet/03-hook.md",
+        "type": "md"
+      },
+      {
+        "title": "04 Sop Draft",
+        "path": "/materials/programs/mount-sinai-aiet/04-sop-draft.md",
+        "type": "md"
+      },
+      {
+        "title": "05 Outreach",
+        "path": "/materials/programs/mount-sinai-aiet/05-outreach.md",
+        "type": "md"
+      },
+      {
+        "title": "06 Portal Answers Interview Faculty",
+        "path": "/materials/programs/mount-sinai-aiet/06-portal-answers-interview-faculty.md",
+        "type": "md"
+      },
+      {
+        "title": "06 Sop Prep",
+        "path": "/materials/programs/mount-sinai-aiet/06-sop-prep.md",
+        "type": "md"
+      },
+      {
+        "title": "07 His Program And Pi Notes",
+        "path": "/materials/programs/mount-sinai-aiet/07-his-program-and-pi-notes.md",
+        "type": "md"
+      },
+      {
+        "title": "07 Portal Requirements",
+        "path": "/materials/programs/mount-sinai-aiet/07-portal-requirements.md",
+        "type": "md"
+      },
+      {
+        "title": "Verification Notes",
+        "path": "/materials/programs/mount-sinai-aiet/verification-notes.md",
+        "type": "md"
+      }
+    ]
+  },
+  {
+    "id": "columbia-dbmi",
+    "name": "Columbia DBMI",
+    "university": "Columbia University",
+    "state": "ny",
+    "country": "US",
+    "stage": "Backburner",
+    "deadline": "1 Dec 2026, 5:00 PM EST",
+    "fee": "",
+    "fundingNotes": "Backburner this cycle — fee-waiver mismatch noted in shortlist.",
+    "greNotes": "",
+    "documents": [
+      {
+        "title": "00 Program",
+        "path": "/materials/programs/columbia-dbmi/00-program.md",
+        "type": "md"
+      },
+      {
+        "title": "01 Faculty",
+        "path": "/materials/programs/columbia-dbmi/01-faculty.md",
+        "type": "md"
+      },
+      {
+        "title": "02 Thesis Adaptation",
+        "path": "/materials/programs/columbia-dbmi/02-thesis-adaptation.md",
+        "type": "md"
+      },
+      {
+        "title": "03 Hook",
+        "path": "/materials/programs/columbia-dbmi/03-hook.md",
+        "type": "md"
+      },
+      {
+        "title": "04 Sop Draft",
+        "path": "/materials/programs/columbia-dbmi/04-sop-draft.md",
+        "type": "md"
+      },
+      {
+        "title": "05 Outreach",
+        "path": "/materials/programs/columbia-dbmi/05-outreach.md",
+        "type": "md"
+      },
+      {
+        "title": "06 Application Instructions Digest",
+        "path": "/materials/programs/columbia-dbmi/06-application-instructions-digest.md",
+        "type": "md"
+      },
+      {
+        "title": "00 README",
+        "path": "/materials/programs/columbia-dbmi/materials/00-README.md",
+        "type": "md"
+      },
+      {
+        "title": "Columbia PhD 2027 Application Instructions Biomed 2026.08.24",
+        "path": "/materials/programs/columbia-dbmi/materials/Columbia-PhD-2027-Application-Instructions-Biomed-2026.08.24.pdf",
+        "type": "pdf"
+      },
+      {
+        "title": "Columbia PhD 2027 Application Instructions Biomed 2026.08.24",
+        "path": "/materials/programs/columbia-dbmi/materials/Columbia-PhD-2027-Application-Instructions-Biomed-2026.08.24.txt",
+        "type": "txt"
+      },
+      {
+        "title": "Verification Notes",
+        "path": "/materials/programs/columbia-dbmi/verification-notes.md",
+        "type": "md"
+      }
+    ]
+  },
+  {
+    "id": "cornell-tech",
+    "name": "Cornell Tech / CS",
+    "university": "Cornell University",
+    "state": "ny",
+    "country": "US",
+    "stage": "Backburner",
+    "deadline": "15 Dec pattern",
+    "fee": "",
+    "fundingNotes": "Full academic-year support while in good standing (incl. international).",
+    "greNotes": "Optional / not considered.",
+    "documents": [
+      {
+        "title": "00 Program",
+        "path": "/materials/programs/cornell-tech/00-program.md",
+        "type": "md"
+      },
+      {
+        "title": "01 Faculty",
+        "path": "/materials/programs/cornell-tech/01-faculty.md",
+        "type": "md"
+      },
+      {
+        "title": "02 Thesis Adaptation",
+        "path": "/materials/programs/cornell-tech/02-thesis-adaptation.md",
+        "type": "md"
+      },
+      {
+        "title": "03 Hook",
+        "path": "/materials/programs/cornell-tech/03-hook.md",
+        "type": "md"
+      },
+      {
+        "title": "04 Sop Draft",
+        "path": "/materials/programs/cornell-tech/04-sop-draft.md",
+        "type": "md"
+      },
+      {
+        "title": "05 Outreach",
+        "path": "/materials/programs/cornell-tech/05-outreach.md",
+        "type": "md"
+      },
+      {
+        "title": "Verification Notes",
+        "path": "/materials/programs/cornell-tech/verification-notes.md",
+        "type": "md"
+      }
+    ]
+  },
+  {
+    "id": "harvard-aim",
+    "name": "Harvard AIM (BMI — AI in Medicine)",
+    "university": "Harvard University / HMS",
+    "state": "ma",
+    "country": "US",
+    "stage": "Drafting #8",
+    "deadline": "1 Dec 2026, 5pm ET",
+    "fee": "$0 (GSAS self-fill waiver)",
+    "fundingNotes": "Fully funded PhD track via BMI.",
+    "greNotes": "Optional.",
+    "documents": [
+      {
+        "title": "00 Program",
+        "path": "/materials/programs/harvard-aim/00-program.md",
+        "type": "md"
+      },
+      {
+        "title": "01 Faculty",
+        "path": "/materials/programs/harvard-aim/01-faculty.md",
+        "type": "md"
+      },
+      {
+        "title": "02 Thesis Adaptation",
+        "path": "/materials/programs/harvard-aim/02-thesis-adaptation.md",
+        "type": "md"
+      },
+      {
+        "title": "03 Hook",
+        "path": "/materials/programs/harvard-aim/03-hook.md",
+        "type": "md"
+      },
+      {
+        "title": "04 Sop Draft",
+        "path": "/materials/programs/harvard-aim/04-sop-draft.md",
+        "type": "md"
+      },
+      {
+        "title": "05 Outreach",
+        "path": "/materials/programs/harvard-aim/05-outreach.md",
+        "type": "md"
+      },
+      {
+        "title": "Sop Mentions",
+        "path": "/materials/programs/harvard-aim/sop-mentions.md",
+        "type": "md"
+      },
+      {
+        "title": "Verification Notes",
+        "path": "/materials/programs/harvard-aim/verification-notes.md",
+        "type": "md"
+      }
+    ]
+  },
+  {
+    "id": "bu-cds",
+    "name": "BU CDS",
+    "university": "Boston University",
+    "state": "ma",
+    "country": "US",
+    "stage": "Drafting #7",
+    "deadline": "15 Dec 2026",
+    "fee": "$95 (waiver granted)",
+    "fundingNotes": "5-yr Charles River package; stipend mid for Boston.",
+    "greNotes": "",
+    "documents": [
+      {
+        "title": "00 Program",
+        "path": "/materials/programs/bu-cds/00-program.md",
+        "type": "md"
+      },
+      {
+        "title": "01 Faculty",
+        "path": "/materials/programs/bu-cds/01-faculty.md",
+        "type": "md"
+      },
+      {
+        "title": "02 Thesis Adaptation",
+        "path": "/materials/programs/bu-cds/02-thesis-adaptation.md",
+        "type": "md"
+      },
+      {
+        "title": "03 Hook",
+        "path": "/materials/programs/bu-cds/03-hook.md",
+        "type": "md"
+      },
+      {
+        "title": "04 Sop Draft",
+        "path": "/materials/programs/bu-cds/04-sop-draft.md",
+        "type": "md"
+      },
+      {
+        "title": "05 Outreach",
+        "path": "/materials/programs/bu-cds/05-outreach.md",
+        "type": "md"
+      },
+      {
+        "title": "06 Sop Prep",
+        "path": "/materials/programs/bu-cds/06-sop-prep.md",
+        "type": "md"
+      },
+      {
+        "title": "07 Portal Requirements",
+        "path": "/materials/programs/bu-cds/07-portal-requirements.md",
+        "type": "md"
+      },
+      {
+        "title": "Verification Notes",
+        "path": "/materials/programs/bu-cds/verification-notes.md",
+        "type": "md"
+      },
+      {
+        "title": "Portal instructions",
+        "path": "/materials/portal-instructions/BU CDS.txt",
+        "type": "txt"
+      }
+    ]
+  },
+  {
+    "id": "mit-eecs",
+    "name": "MIT EECS (+IMES)",
+    "university": "Massachusetts Institute of Technology",
+    "state": "ma",
+    "country": "US",
+    "stage": "Backburner",
+    "deadline": "",
+    "fee": "$90 (OGE waiver unlikely for this profile)",
+    "fundingNotes": "Fellowship / RA / TA: tuition, stipend, medical insurance; internationals eligible.",
+    "greNotes": "",
+    "documents": [
+      {
+        "title": "00 Program",
+        "path": "/materials/programs/mit-eecs/00-program.md",
+        "type": "md"
+      },
+      {
+        "title": "01 Faculty",
+        "path": "/materials/programs/mit-eecs/01-faculty.md",
+        "type": "md"
+      },
+      {
+        "title": "02 Thesis Adaptation",
+        "path": "/materials/programs/mit-eecs/02-thesis-adaptation.md",
+        "type": "md"
+      },
+      {
+        "title": "03 Hook",
+        "path": "/materials/programs/mit-eecs/03-hook.md",
+        "type": "md"
+      },
+      {
+        "title": "04 Sop Draft",
+        "path": "/materials/programs/mit-eecs/04-sop-draft.md",
+        "type": "md"
+      },
+      {
+        "title": "05 Outreach",
+        "path": "/materials/programs/mit-eecs/05-outreach.md",
+        "type": "md"
+      },
+      {
+        "title": "Verification Notes",
+        "path": "/materials/programs/mit-eecs/verification-notes.md",
+        "type": "md"
+      }
+    ]
+  },
+  {
+    "id": "cmu-scs",
+    "name": "CMU MLD (SCS)",
+    "university": "Carnegie Mellon University",
+    "state": "pa",
+    "country": "US",
+    "stage": "Drafting #5",
+    "deadline": "Early 18 Nov / final 9 Dec 2026",
+    "fee": "$80 early / $100 regular (waiver held)",
+    "fundingNotes": "Full tuition + stipend for admitted PhD students.",
+    "greNotes": "Optional.",
+    "documents": [
+      {
+        "title": "00 Program",
+        "path": "/materials/programs/cmu-scs/00-program.md",
+        "type": "md"
+      },
+      {
+        "title": "00 Review Notes",
+        "path": "/materials/programs/cmu-scs/00-review-notes.md",
+        "type": "md"
+      },
+      {
+        "title": "01 Faculty",
+        "path": "/materials/programs/cmu-scs/01-faculty.md",
+        "type": "md"
+      },
+      {
+        "title": "02 Thesis Adaptation",
+        "path": "/materials/programs/cmu-scs/02-thesis-adaptation.md",
+        "type": "md"
+      },
+      {
+        "title": "03 Hook",
+        "path": "/materials/programs/cmu-scs/03-hook.md",
+        "type": "md"
+      },
+      {
+        "title": "04 Sop Draft",
+        "path": "/materials/programs/cmu-scs/04-sop-draft.md",
+        "type": "md"
+      },
+      {
+        "title": "05 Outreach",
+        "path": "/materials/programs/cmu-scs/05-outreach.md",
+        "type": "md"
+      },
+      {
+        "title": "06 Sop Prep",
+        "path": "/materials/programs/cmu-scs/06-sop-prep.md",
+        "type": "md"
+      },
+      {
+        "title": "07 Portal Requirements",
+        "path": "/materials/programs/cmu-scs/07-portal-requirements.md",
+        "type": "md"
+      },
+      {
+        "title": "Verification Notes",
+        "path": "/materials/programs/cmu-scs/verification-notes.md",
+        "type": "md"
+      }
+    ]
+  },
+  {
+    "id": "cmu-societal-computing",
+    "name": "CMU Societal Computing",
+    "university": "Carnegie Mellon University",
+    "state": "pa",
+    "country": "US",
+    "stage": "Drafting #1",
+    "deadline": "Early 18 Nov / final 9 Dec 2026",
+    "fee": "$0 (program auto-waives)",
+    "fundingNotes": "Fully funded PhD; Pittsburgh COLA.",
+    "greNotes": "",
+    "documents": [
+      {
+        "title": "00 Program",
+        "path": "/materials/programs/cmu-societal-computing/00-program.md",
+        "type": "md"
+      },
+      {
+        "title": "01 Faculty",
+        "path": "/materials/programs/cmu-societal-computing/01-faculty.md",
+        "type": "md"
+      },
+      {
+        "title": "02 Faculty Deep Dive",
+        "path": "/materials/programs/cmu-societal-computing/02-faculty-deep-dive.md",
+        "type": "md"
+      },
+      {
+        "title": "06 Sop Prep",
+        "path": "/materials/programs/cmu-societal-computing/06-sop-prep.md",
+        "type": "md"
+      },
+      {
+        "title": "07 Portal Requirements",
+        "path": "/materials/programs/cmu-societal-computing/07-portal-requirements.md",
+        "type": "md"
+      }
+    ]
+  },
+  {
+    "id": "upenn-gcb",
+    "name": "UPenn GCB",
+    "university": "University of Pennsylvania",
+    "state": "pa",
+    "country": "US",
+    "stage": "Drafting #3",
+    "deadline": "1 Dec 2026, 11:59pm ET",
+    "fee": "$0",
+    "fundingNotes": "$49k stipend; Johnson AI-4-AI faculty path.",
+    "greNotes": "",
+    "documents": [
+      {
+        "title": "00 Program",
+        "path": "/materials/programs/upenn-gcb/00-program.md",
+        "type": "md"
+      },
+      {
+        "title": "00 Review Notes",
+        "path": "/materials/programs/upenn-gcb/00-review-notes.md",
+        "type": "md"
+      },
+      {
+        "title": "01 Faculty",
+        "path": "/materials/programs/upenn-gcb/01-faculty.md",
+        "type": "md"
+      },
+      {
+        "title": "06 Sop Prep",
+        "path": "/materials/programs/upenn-gcb/06-sop-prep.md",
+        "type": "md"
+      },
+      {
+        "title": "07 Portal Requirements",
+        "path": "/materials/programs/upenn-gcb/07-portal-requirements.md",
+        "type": "md"
+      }
+    ]
+  },
+  {
+    "id": "upenn-cis",
+    "name": "UPenn CIS",
+    "university": "University of Pennsylvania",
+    "state": "pa",
+    "country": "US",
+    "stage": "Backburner",
+    "deadline": "15 Dec pattern (early 1 Nov)",
+    "fee": "$95 (no intl waiver route found)",
+    "fundingNotes": "SEAS full funding language for admitted PhD students.",
+    "greNotes": "Optional.",
+    "documents": [
+      {
+        "title": "00 Program",
+        "path": "/materials/programs/upenn-cis/00-program.md",
+        "type": "md"
+      },
+      {
+        "title": "01 Faculty",
+        "path": "/materials/programs/upenn-cis/01-faculty.md",
+        "type": "md"
+      },
+      {
+        "title": "02 Thesis Adaptation",
+        "path": "/materials/programs/upenn-cis/02-thesis-adaptation.md",
+        "type": "md"
+      },
+      {
+        "title": "03 Hook",
+        "path": "/materials/programs/upenn-cis/03-hook.md",
+        "type": "md"
+      },
+      {
+        "title": "04 Sop Draft",
+        "path": "/materials/programs/upenn-cis/04-sop-draft.md",
+        "type": "md"
+      },
+      {
+        "title": "05 Outreach",
+        "path": "/materials/programs/upenn-cis/05-outreach.md",
+        "type": "md"
+      },
+      {
+        "title": "Verification Notes",
+        "path": "/materials/programs/upenn-cis/verification-notes.md",
+        "type": "md"
+      }
+    ]
+  },
+  {
+    "id": "pitt-bmi",
+    "name": "Pitt BMI",
+    "university": "University of Pittsburgh",
+    "state": "pa",
+    "country": "US",
+    "stage": "Considering — mid #C",
+    "deadline": "~15 Dec 2026",
+    "fee": "$50 (+ hardship waiver email)",
+    "fundingNotes": "Intl funding via grants — weaker guarantee than Mayo/UTSW.",
+    "greNotes": "Not required.",
+    "documents": [
+      {
+        "title": "00 Program",
+        "path": "/materials/programs/pitt-bmi/00-program.md",
+        "type": "md"
+      }
+    ]
+  },
+  {
+    "id": "jhu-cs",
+    "name": "JHU CS (Whiting)",
+    "university": "Johns Hopkins University",
+    "state": "md",
+    "country": "US",
+    "stage": "Drafting #6",
+    "deadline": "15 Dec 2026",
+    "fee": "$75 (waiver status uncertain)",
+    "fundingNotes": "Stipend and funding guarantee; medical school adjacency.",
+    "greNotes": "Not required (Whiting-wide).",
+    "documents": [
+      {
+        "title": "00 Program",
+        "path": "/materials/programs/jhu-cs/00-program.md",
+        "type": "md"
+      },
+      {
+        "title": "01 Faculty",
+        "path": "/materials/programs/jhu-cs/01-faculty.md",
+        "type": "md"
+      },
+      {
+        "title": "02 Thesis Adaptation",
+        "path": "/materials/programs/jhu-cs/02-thesis-adaptation.md",
+        "type": "md"
+      },
+      {
+        "title": "03 Hook",
+        "path": "/materials/programs/jhu-cs/03-hook.md",
+        "type": "md"
+      },
+      {
+        "title": "04 Sop Draft",
+        "path": "/materials/programs/jhu-cs/04-sop-draft.md",
+        "type": "md"
+      },
+      {
+        "title": "05 Outreach",
+        "path": "/materials/programs/jhu-cs/05-outreach.md",
+        "type": "md"
+      },
+      {
+        "title": "06 Sop Prep",
+        "path": "/materials/programs/jhu-cs/06-sop-prep.md",
+        "type": "md"
+      },
+      {
+        "title": "07 Portal Requirements",
+        "path": "/materials/programs/jhu-cs/07-portal-requirements.md",
+        "type": "md"
+      },
+      {
+        "title": "Portal Prompt Quote",
+        "path": "/materials/programs/jhu-cs/portal-prompt-quote.md",
+        "type": "md"
+      },
+      {
+        "title": "Verification Notes",
+        "path": "/materials/programs/jhu-cs/verification-notes.md",
+        "type": "md"
+      },
+      {
+        "title": "Portal instructions",
+        "path": "/materials/portal-instructions/JHU CS (Whiting School).txt",
+        "type": "txt"
+      }
+    ]
+  },
+  {
+    "id": "cedars-sinai-health-ai",
+    "name": "Cedars-Sinai Health AI",
+    "university": "Cedars-Sinai",
+    "state": "ca",
+    "country": "US",
+    "stage": "Considering — webinar",
+    "deadline": "31 Jan 2027",
+    "fee": "$55 (waiver by email)",
+    "fundingNotes": "Fully funded: tuition + ~$52k stipend (12-month) for four years + health insurance.",
+    "greNotes": "Not required.",
+    "documents": [
+      {
+        "title": "00 Program",
+        "path": "/materials/programs/cedars-sinai-health-ai/00-program.md",
+        "type": "md"
+      },
+      {
+        "title": "README",
+        "path": "/materials/programs/cedars-sinai-health-ai/README.md",
+        "type": "md"
+      }
+    ]
+  },
+  {
+    "id": "berkeley-ucsf-cph",
+    "name": "Berkeley–UCSF CPH",
+    "university": "UC Berkeley / UCSF",
+    "state": "ca",
+    "country": "US",
+    "stage": "Backburner",
+    "deadline": "",
+    "fee": "$155 (intl fee waivers restricted)",
+    "fundingNotes": "5-year institutional funding for admitted students.",
+    "greNotes": "Ignored.",
+    "documents": [
+      {
+        "title": "00 Program",
+        "path": "/materials/programs/berkeley-ucsf-cph/00-program.md",
+        "type": "md"
+      },
+      {
+        "title": "01 Faculty",
+        "path": "/materials/programs/berkeley-ucsf-cph/01-faculty.md",
+        "type": "md"
+      },
+      {
+        "title": "02 Thesis Adaptation",
+        "path": "/materials/programs/berkeley-ucsf-cph/02-thesis-adaptation.md",
+        "type": "md"
+      },
+      {
+        "title": "03 Hook",
+        "path": "/materials/programs/berkeley-ucsf-cph/03-hook.md",
+        "type": "md"
+      },
+      {
+        "title": "04 Sop Draft",
+        "path": "/materials/programs/berkeley-ucsf-cph/04-sop-draft.md",
+        "type": "md"
+      },
+      {
+        "title": "05 Outreach",
+        "path": "/materials/programs/berkeley-ucsf-cph/05-outreach.md",
+        "type": "md"
+      },
+      {
+        "title": "Verification Notes",
+        "path": "/materials/programs/berkeley-ucsf-cph/verification-notes.md",
+        "type": "md"
+      }
+    ]
+  },
+  {
+    "id": "utsw-osph-hds",
+    "name": "UTSW Public Health — Health Data Science",
+    "university": "UT Southwestern",
+    "state": "tx",
+    "country": "US",
+    "stage": "Considering — mid #B",
+    "deadline": "Priority 15 Dec 2026",
+    "fee": "$0",
+    "fundingNotes": "Tuition + fees paid + $40,000/yr RA + student health insurance (4–5 years).",
+    "greNotes": "",
+    "documents": [
+      {
+        "title": "00 Program",
+        "path": "/materials/programs/utsw-osph-hds/00-program.md",
+        "type": "md"
+      }
+    ]
+  },
+  {
+    "id": "mayo-biomedical",
+    "name": "Mayo Biomedical Sciences",
+    "university": "Mayo Clinic",
+    "state": "mn",
+    "country": "US",
+    "stage": "Considering — mid #A",
+    "deadline": "2 Dec 2026",
+    "fee": "$0",
+    "fundingNotes": "Fully funded: tuition waived + $42,642 stipend (2026–27) + benefits.",
+    "greNotes": "",
+    "documents": [
+      {
+        "title": "00 Program",
+        "path": "/materials/programs/mayo-biomedical/00-program.md",
+        "type": "md"
+      }
+    ]
+  },
+  {
+    "id": "utah-bmi",
+    "name": "Utah BMI",
+    "university": "University of Utah",
+    "state": "ut",
+    "country": "US",
+    "stage": "Backburner",
+    "deadline": "n/a",
+    "fee": "",
+    "fundingNotes": "Not applying — biology course prerequisites.",
+    "greNotes": "Optional.",
+    "documents": [
+      {
+        "title": "00 Program",
+        "path": "/materials/programs/utah-bmi/00-program.md",
+        "type": "md"
+      }
+    ]
+  },
+  {
+    "id": "uw-allen",
+    "name": "UW Allen CSE",
+    "university": "University of Washington",
+    "state": "wa",
+    "country": "US",
+    "stage": "Backburner",
+    "deadline": "15 Dec (Pacific)",
+    "fee": "$90 (no waiver — not applying)",
+    "fundingNotes": "Allen School CSE funding vehicle only (not BIME).",
+    "greNotes": "Not used.",
+    "documents": [
+      {
+        "title": "00 Program",
+        "path": "/materials/programs/uw-allen/00-program.md",
+        "type": "md"
+      },
+      {
+        "title": "01 Faculty",
+        "path": "/materials/programs/uw-allen/01-faculty.md",
+        "type": "md"
+      },
+      {
+        "title": "02 Thesis Adaptation",
+        "path": "/materials/programs/uw-allen/02-thesis-adaptation.md",
+        "type": "md"
+      },
+      {
+        "title": "03 Hook",
+        "path": "/materials/programs/uw-allen/03-hook.md",
+        "type": "md"
+      },
+      {
+        "title": "04 Sop Draft",
+        "path": "/materials/programs/uw-allen/04-sop-draft.md",
+        "type": "md"
+      },
+      {
+        "title": "05 Outreach",
+        "path": "/materials/programs/uw-allen/05-outreach.md",
+        "type": "md"
+      },
+      {
+        "title": "Verification Notes",
+        "path": "/materials/programs/uw-allen/verification-notes.md",
+        "type": "md"
+      }
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+{
+  "projects": [
+    {
+      "title": "Hospital EHR Project Uppsala",
+      "path": "/materials/projects/Hospital EHR Project Uppsala.pdf",
+      "type": "pdf"
+    },
+    {
+      "title": "IUBDC2022 Health Insurance Grouping Preprint",
+      "path": "/materials/projects/IUBDC2022-Health Insurance Grouping Preprint.pdf",
+      "type": "pdf"
+    }
+  ],
+  "samples": [
+    {
+      "title": "MIT CS Grad School Personal Statement Annotated Example 2",
+      "path": "/materials/samples/MIT-CS-grad-school-personal-statement-annotated-example-2.pdf",
+      "type": "pdf"
+    },
+    {
+      "title": "MIT CS Grad School Personal Statement Annotated Example",
+      "path": "/materials/samples/MIT-CS-grad-school-personal-statement-annotated-example.pdf",
+      "type": "pdf"
+    },
+    {
+      "title": "MIT EE Grad School Personal Statement Annotated Example",
+      "path": "/materials/samples/MIT-EE-grad-school-personal-statement-annotated-example.pdf",
+      "type": "pdf"
+    },
+    {
+      "title": "MIT Faculty SoP Personal Advice",
+      "path": "/materials/samples/MIT-Faculty-SoP-Personal Advice.txt",
+      "type": "txt"
+    },
+    {
+      "title": "MIT SoP EECS Department Guide",
+      "path": "/materials/samples/MIT-SoP-EECS department-Guide.txt",
+      "type": "txt"
+    },
+    {
+      "title": "PhD SOP NYU Fall2024 Jatin (Reference)",
+      "path": "/materials/samples/PhD_SOP_NYU_Fall2024_Jatin (reference).pdf",
+      "type": "pdf"
+    }
+  ],
+  "treeDocs": [
+    {
+      "title": "00 Master Plan",
+      "path": "/materials/tree/00-master-plan.md",
+      "type": "md"
+    },
+    {
+      "title": "01 Screening Criteria",
+      "path": "/materials/tree/01-screening-criteria.md",
+      "type": "md"
+    },
+    {
+      "title": "02 Longlist",
+      "path": "/materials/tree/02-longlist.md",
+      "type": "md"
+    },
+    {
+      "title": "03 Shortlist",
+      "path": "/materials/tree/03-shortlist.md",
+      "type": "md"
+    },
+    {
+      "title": "04 Deadlines Calendar",
+      "path": "/materials/tree/04-deadlines-calendar.md",
+      "type": "md"
+    },
+    {
+      "title": "05 Mailing Lists And Fee Waivers",
+      "path": "/materials/tree/05-mailing-lists-and-fee-waivers.md",
+      "type": "md"
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "highlights": [
+    {
+      "programId": "mount-sinai-aiet",
+      "name": "Mount Sinai BMS + AIET",
+      "fee": "Fee waived",
+      "fundingNotes": "Institutional/grant funding; health insurance fee listed $0 on program materials.",
+      "stage": "Drafting #4"
+    },
+    {
+      "programId": "harvard-aim",
+      "name": "Harvard AIM (BMI — AI in Medicine)",
+      "fee": "$0 (GSAS self-fill waiver)",
+      "fundingNotes": "Fully funded PhD track via BMI.",
+      "stage": "Drafting #8"
+    },
+    {
+      "programId": "cmu-societal-computing",
+      "name": "CMU Societal Computing",
+      "fee": "$0 (program auto-waives)",
+      "fundingNotes": "Fully funded PhD; Pittsburgh COLA.",
+      "stage": "Drafting #1"
+    },
+    {
+      "programId": "upenn-gcb",
+      "name": "UPenn GCB",
+      "fee": "$0",
+      "fundingNotes": "$49k stipend; Johnson AI-4-AI faculty path.",
+      "stage": "Drafting #3"
+    },
+    {
+      "programId": "cedars-sinai-health-ai",
+      "name": "Cedars-Sinai Health AI",
+      "fee": "$55 (waiver by email)",
+      "fundingNotes": "Fully funded: tuition + ~$52k stipend (12-month) for four years + health insurance.",
+      "stage": "Considering — webinar"
+    },
+    {
+      "programId": "utsw-osph-hds",
+      "name": "UTSW Public Health — Health Data Science",
+      "fee": "$0",
+      "fundingNotes": "Tuition + fees paid + $40,000/yr RA + student health insurance (4–5 years).",
+      "stage": "Considering — mid #B"
+    },
+    {
+      "programId": "mayo-biomedical",
+      "name": "Mayo Biomedical Sciences",
+      "fee": "$0",
+      "fundingNotes": "Fully funded: tuition waived + $42,642 stipend (2026–27) + benefits.",
+      "stage": "Considering — mid #A"
+    }
+  ],
+  "programs": [
+    {
+      "programId": "nyu-cds-medical",
+      "name": "NYU CDS — Medical School Track",
+      "university": "New York University",
+      "state": "ny",
+      "stage": "Drafting #2",
+      "fee": "$130 (waiver pending)",
+      "fundingNotes": "Stipend FAQ $41,832 (2025–26 nine-month).",
+      "greNotes": "Not required (considered if submitted).",
+      "deadline": "3 Dec 2026, 5pm ET"
+    },
+    {
+      "programId": "mount-sinai-aiet",
+      "name": "Mount Sinai BMS + AIET",
+      "university": "Icahn School of Medicine at Mount Sinai",
+      "state": "ny",
+      "stage": "Drafting #4",
+      "fee": "Fee waived",
+      "fundingNotes": "Institutional/grant funding; health insurance fee listed $0 on program materials.",
+      "greNotes": "Not required.",
+      "deadline": "~1 Dec 2026 (unconfirmed)"
+    },
+    {
+      "programId": "columbia-dbmi",
+      "name": "Columbia DBMI",
+      "university": "Columbia University",
+      "state": "ny",
+      "stage": "Backburner",
+      "fee": "",
+      "fundingNotes": "Backburner this cycle — fee-waiver mismatch noted in shortlist.",
+      "greNotes": "",
+      "deadline": "1 Dec 2026, 5:00 PM EST"
+    },
+    {
+      "programId": "cornell-tech",
+      "name": "Cornell Tech / CS",
+      "university": "Cornell University",
+      "state": "ny",
+      "stage": "Backburner",
+      "fee": "",
+      "fundingNotes": "Full academic-year support while in good standing (incl. international).",
+      "greNotes": "Optional / not considered.",
+      "deadline": "15 Dec pattern"
+    },
+    {
+      "programId": "harvard-aim",
+      "name": "Harvard AIM (BMI — AI in Medicine)",
+      "university": "Harvard University / HMS",
+      "state": "ma",
+      "stage": "Drafting #8",
+      "fee": "$0 (GSAS self-fill waiver)",
+      "fundingNotes": "Fully funded PhD track via BMI.",
+      "greNotes": "Optional.",
+      "deadline": "1 Dec 2026, 5pm ET"
+    },
+    {
+      "programId": "bu-cds",
+      "name": "BU CDS",
+      "university": "Boston University",
+      "state": "ma",
+      "stage": "Drafting #7",
+      "fee": "$95 (waiver granted)",
+      "fundingNotes": "5-yr Charles River package; stipend mid for Boston.",
+      "greNotes": "",
+      "deadline": "15 Dec 2026"
+    },
+    {
+      "programId": "mit-eecs",
+      "name": "MIT EECS (+IMES)",
+      "university": "Massachusetts Institute of Technology",
+      "state": "ma",
+      "stage": "Backburner",
+      "fee": "$90 (OGE waiver unlikely for this profile)",
+      "fundingNotes": "Fellowship / RA / TA: tuition, stipend, medical insurance; internationals eligible.",
+      "greNotes": "",
+      "deadline": ""
+    },
+    {
+      "programId": "cmu-scs",
+      "name": "CMU MLD (SCS)",
+      "university": "Carnegie Mellon University",
+      "state": "pa",
+      "stage": "Drafting #5",
+      "fee": "$80 early / $100 regular (waiver held)",
+      "fundingNotes": "Full tuition + stipend for admitted PhD students.",
+      "greNotes": "Optional.",
+      "deadline": "Early 18 Nov / final 9 Dec 2026"
+    },
+    {
+      "programId": "cmu-societal-computing",
+      "name": "CMU Societal Computing",
+      "university": "Carnegie Mellon University",
+      "state": "pa",
+      "stage": "Drafting #1",
+      "fee": "$0 (program auto-waives)",
+      "fundingNotes": "Fully funded PhD; Pittsburgh COLA.",
+      "greNotes": "",
+      "deadline": "Early 18 Nov / final 9 Dec 2026"
+    },
+    {
+      "programId": "upenn-gcb",
+      "name": "UPenn GCB",
+      "university": "University of Pennsylvania",
+      "state": "pa",
+      "stage": "Drafting #3",
+      "fee": "$0",
+      "fundingNotes": "$49k stipend; Johnson AI-4-AI faculty path.",
+      "greNotes": "",
+      "deadline": "1 Dec 2026, 11:59pm ET"
+    },
+    {
+      "programId": "upenn-cis",
+      "name": "UPenn CIS",
+      "university": "University of Pennsylvania",
+      "state": "pa",
+      "stage": "Backburner",
+      "fee": "$95 (no intl waiver route found)",
+      "fundingNotes": "SEAS full funding language for admitted PhD students.",
+      "greNotes": "Optional.",
+      "deadline": "15 Dec pattern (early 1 Nov)"
+    },
+    {
+      "programId": "pitt-bmi",
+      "name": "Pitt BMI",
+      "university": "University of Pittsburgh",
+      "state": "pa",
+      "stage": "Considering — mid #C",
+      "fee": "$50 (+ hardship waiver email)",
+      "fundingNotes": "Intl funding via grants — weaker guarantee than Mayo/UTSW.",
+      "greNotes": "Not required.",
+      "deadline": "~15 Dec 2026"
+    },
+    {
+      "programId": "jhu-cs",
+      "name": "JHU CS (Whiting)",
+      "university": "Johns Hopkins University",
+      "state": "md",
+      "stage": "Drafting #6",
+      "fee": "$75 (waiver status uncertain)",
+      "fundingNotes": "Stipend and funding guarantee; medical school adjacency.",
+      "greNotes": "Not required (Whiting-wide).",
+      "deadline": "15 Dec 2026"
+    },
+    {
+      "programId": "cedars-sinai-health-ai",
+      "name": "Cedars-Sinai Health AI",
+      "university": "Cedars-Sinai",
+      "state": "ca",
+      "stage": "Considering — webinar",
+      "fee": "$55 (waiver by email)",
+      "fundingNotes": "Fully funded: tuition + ~$52k stipend (12-month) for four years + health insurance.",
+      "greNotes": "Not required.",
+      "deadline": "31 Jan 2027"
+    },
+    {
+      "programId": "berkeley-ucsf-cph",
+      "name": "Berkeley–UCSF CPH",
+      "university": "UC Berkeley / UCSF",
+      "state": "ca",
+      "stage": "Backburner",
+      "fee": "$155 (intl fee waivers restricted)",
+      "fundingNotes": "5-year institutional funding for admitted students.",
+      "greNotes": "Ignored.",
+      "deadline": ""
+    },
+    {
+      "programId": "utsw-osph-hds",
+      "name": "UTSW Public Health — Health Data Science",
+      "university": "UT Southwestern",
+      "state": "tx",
+      "stage": "Considering — mid #B",
+      "fee": "$0",
+      "fundingNotes": "Tuition + fees paid + $40,000/yr RA + student health insurance (4–5 years).",
+      "greNotes": "",
+      "deadline": "Priority 15 Dec 2026"
+    },
+    {
+      "programId": "mayo-biomedical",
+      "name": "Mayo Biomedical Sciences",
+      "university": "Mayo Clinic",
+      "state": "mn",
+      "stage": "Considering — mid #A",
+      "fee": "$0",
+      "fundingNotes": "Fully funded: tuition waived + $42,642 stipend (2026–27) + benefits.",
+      "greNotes": "",
+      "deadline": "2 Dec 2026"
+    },
+    {
+      "programId": "utah-bmi",
+      "name": "Utah BMI",
+      "university": "University of Utah",
+      "state": "ut",
+      "stage": "Backburner",
+      "fee": "",
+      "fundingNotes": "Not applying — biology course prerequisites.",
+      "greNotes": "Optional.",
+      "deadline": "n/a"
+    },
+    {
+      "programId": "uw-allen",
+      "name": "UW Allen CSE",
+      "university": "University of Washington",
+      "state": "wa",
+      "stage": "Backburner",
+      "fee": "$90 (no waiver — not applying)",
+      "fundingNotes": "Allen School CSE funding vehicle only (not BIME).",
+      "greNotes": "Not used.",
+      "deadline": "15 Dec (Pacific)"
+    }
+  ],
+  "referenceDocs": [
+    {
+      "title": "03 Shortlist",
+      "path": "/materials/tree/03-shortlist.md",
+      "type": "md"
+    },
+    {
+      "title": "04 Deadlines Calendar",
+      "path": "/materials/tree/04-deadlines-calendar.md",
+      "type": "md"
+    },
+    {
+      "title": "05 Mailing Lists And Fee Waivers",
+      "path": "/materials/tree/05-mailing-lists-and-fee-waivers.md",
+      "type": "md"
+    },
+    {
+      "title": "MIT CS Grad School Personal Statement Annotated Example 2",
+      "path": "/materials/samples/MIT-CS-grad-school-personal-statement-annotated-example-2.pdf",
+      "type": "pdf"
+    },
+    {
+      "title": "MIT CS Grad School Personal Statement Annotated Example",
+      "path": "/materials/samples/MIT-CS-grad-school-personal-statement-annotated-example.pdf",
+      "type": "pdf"
+    },
+    {
+      "title": "MIT EE Grad School Personal Statement Annotated Example",
+      "path": "/materials/samples/MIT-EE-grad-school-personal-statement-annotated-example.pdf",
+      "type": "pdf"
+    },
+    {
+      "title": "MIT Faculty SoP Personal Advice",
+      "path": "/materials/samples/MIT-Faculty-SoP-Personal Advice.txt",
+      "type": "txt"
+    },
+    {
+      "title": "MIT SoP EECS Department Guide",
+      "path": "/materials/samples/MIT-SoP-EECS department-Guide.txt",
+      "type": "txt"
+    },
+    {
+      "title": "PhD SOP NYU Fall2024 Jatin (Reference)",
+      "path": "/materials/samples/PhD_SOP_NYU_Fall2024_Jatin (reference).pdf",
+      "type": "pdf"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+Graduate School Statement of Purpose
+Criteria for Success
+Your statement of purpose, sometimes referred to by other names including “statement of objectives,” should…
+
+convince a faculty committee that you are qualified for their program and that you are a good fit for their program’s focus and goals.
+show a select group of skills and experiences that convey your scientific and technical accomplishments and interests.
+include concrete and quantitative experiences, accomplishments, and qualifications.
+adhere to the length and formatting guidelines of the program to which you are applying (usually no more than 2 pages).
+Structure Diagram
+As in most academic writing, explicit section titles can help make the statement of purpose easier to read. Sections might include Research Interests, Prior Experience, and/or Teaching and Leadership Experience. Alternatively, consider using more specific section titles that convey a clear message about the content of that section.
+
+Purpose
+The graduate school statement of purpose should strengthen your chance of acceptance into a graduate program by demonstrating that you are a good match for the particular department or program. Matching goes both ways: they should be interested in you, and you should be interested in them. Your statement should make this match clear by telling your personal story as a researcher.
+
+Analyze Your Audience
+Your statement of purpose is typically read by a graduate committee, a handful of faculty from your program. They’re trying to determine if you will be a successful graduate student in their department, a positive force in the department’s intellectual life, and a successful researcher after you graduate. They are therefore interested in your qualifications as a researcher, your career goals, and how your academic focus matches their labs and department.
+
+The graduate committee could read hundreds of applications a year. To make it easy for them to figure out that you are a good fit, make direct, concrete statements about your accomplishments and qualifications. To make it easy for them to remember you, create a narrative that “brands” you.
+
+Skills
+Create an individual narrative
+PhD programs invest in the professional and technical growth of their students. Get the committee excited about investing in you by opening your essay with a brief portrait of what drives you as a scientist or engineer. What research directions are you passionate about, and why? What do you picture yourself doing in 10 years?
+
+If you’re not quite sure what you want to do in graduate school, it’s still best to focus on a specific area or topic in your application. What would you work on if you had to start graduate school tomorrow? You can always change your research focus later.
+
+Any personal stories should fit in the overall narrative of your research story. Avoid cliche openings like “ever since my childhood, I’ve been fascinated by…”. The statement of purpose should tell your unique research story, not your life story.  
+
+Close your essay with a 2-3 sentence discussion of your career interests. No one will hold you to these plans; it simply helps your committee visualize your potential trajectory. Emphasize how the program you are applying to will help prepare you for these long-term goals.
+
+Describe your experiences
+Experiences are the “what” of your essay. What experiences led you to develop your skill set and passions? Where have you demonstrated accomplishment, leadership, and collaboration? Include research, teaching, and relevant work experience or extracurriculars. State concrete achievements and outcomes like awards, publications, or projects completed.
+
+Achievements do not need to be directly tied to research projects or publications. However, they should relate to the type of work you expect in graduate school. For example, you can discuss significant, research-oriented class projects. Describe any collaborations with senior students or faculty that demonstrate your passion about relevant research topics. Computer science students can discuss projects from software internships that involved architecture design, algorithm design, security considerations, machine learning, etc. These experiences can inform your academic interests and demonstrate ability as well as more formal research experience. Also consider including experiences that demonstrate other skills that are crucial for a successful grad student such as good communication and self-motivation. 
+
+Quantify your experiences to show concrete impact. How many people were on your team? How many protocols did you develop? How many people were in competition for an award? As a TA, how often did you meet with your students?
+
+Describe actions, not just changes in your internal mental or emotional state. A statement of purpose is a way to make a narrative out of your CV. It is not a diary entry
+
+Vague experience	Concrete experience
+During this project, my mind was opened to the possibility of using different programming languages together to create code that is faster to run and easier to understand and modify.	During this project, I collaborated with other group members to develop a user-friendly Python wrapper for a 10,000-line Fortran library.
+I showed initiative in my second project in the lab.	Inspired by a question that arose during my first project, I proposed a new research direction to the postdoc and PI of my lab.
+During my first year, I became a more curious and capable scientist.	I explored the literature and proposed two alternative algorithms to make the experiment efficient.
+I won the Electrical Engineering department’s Caroline S. Berenstain prize.	I won the Electrical Engineering department’s prize for top student among my cohort of 20 students.
+I learned about the role of regularization in machine learning.	I quantified the performance of three different regularization methods for the regression model used in our image processing pipeline.
+Explain the meaning of your experiences
+Meaning is the “why” or “so what” of the document. Why was this experience important to your growth as a researcher? What does it say about your abilities and potential? It feels obvious to you, but you need to be explicit with your audience. Your descriptions of meaning should also act as transition statements between experiences: try to “wrap” meaning around your experiences.
+
+Experience only	Experience and Meaning
+First year, I was vice-president.
+Second year, I founded a new organization.
+Third year, I partnered my organization with other ones.
+Fourth year, I led a collaboration between 10 student groups.
+During my undergraduate career, I developed strong leadership skills.
+First year…
+Second year…
+Third year…
+Fourth year…
+I look forward to new leadership challenges as a graduate student.
+Demonstrate match to your target program
+Demonstrate an understanding of the program to which you’re applying and about how you will be successful in that program. To do this:
+
+Read the program’s website. See what language they use to describe themselves, and echo that language in your essay. For example, the website for MIT’s Computer Science and Artificial Intelligence Laboratory displays three main research areas and the values of the lab.
+Get in contact with faculty (or students) in your target program. If you have had a positive discussion with someone at the department, describe how those interactions made you think that you and the department may be well-matched.
+In some areas (often those with a more rigid lab structure), reaching faculty is very important. You should know what faculty members are taking new students and whether or not you would be a fit for their lab before applying. In other areas, contacting faculty is not expected and may be difficult. Reach out if in doubt and consult current graduate students, undergraduate professors, or graduate admissions officers if you are unsure what is typical in your area.
+State which professors in the program you would plan to work with. Show how their research areas align with your background and your goals. You can even describe potential research directions or projects. It can also be helpful to mention other departments or groups at the university that you might be interested in collaborating with or learning from.
+Content adapted by the MIT Electrical Engineering and Computer Science Communication Lab from an article originally created by the MIT Biological Engineering Communication Lab.

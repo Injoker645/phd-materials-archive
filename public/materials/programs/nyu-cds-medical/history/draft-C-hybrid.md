@@ -1,0 +1,25 @@
+# Draft C — hybrid (recommended starting point)
+
+> Variant goal: softened provenance hook, one biographical hinge, research, NYU. Target ≤650 words.
+> Voice check: Register A, no em dashes, British spelling, contractions.
+> Status: DRAFT — preferred consolidation candidate pending claims-audit and persona critique.
+
+---
+
+When a doctor absorbs a hospital's unwritten habits over twenty years of practice and calls the result clinical judgement, we trust it. When a model absorbs the same twenty years of the same hospital's habits from its notes, we call the result bias and demand it be explained. Same information, same contamination, and in either case no clean way to separate the two. The difference is that one of those agents is actually auditable. I want to build the audit.
+
+I grew up in a hospital compound where my father worked, and I have been around clinical environments long enough to know that the unwritten layer is not a footnote. It is most of the job. That is part of why, on my first day of a data science master's at Uppsala, I contacted a bioethics researcher and ended up working on questions about trust and blame when a decision comes from a person versus a system. It is also why my thesis, *Cracks in the Feed*, spent as much effort on corpus construction and annotation design under the EU Digital Services Act as on the models themselves. Harmful GIF comments on short-form platforms are invisible to text-only moderation by construction. The interesting failure was in the data, not in the optimiser.
+
+Clinical foundation models have a failure of the same shape. Trained on a hospital's own notes, they learn generalisable medicine and local habit in one pass. Inside one site the two are indistinguishable. NYUTron's Manhattan-versus-Brooklyn evaluation already found that local fine-tuning beats cross-site fine-tuning, and left the causes as future work. I do not want to add another explanation method on top. I want a per-prediction measurement: how much of this score rests on evidence that holds across sites, and how much rests on evidence that does not. Practically, that means probing a frozen model for an invariant versus site-specific representation split, attributing an individual prediction onto that split, checking prevalence differences between sites before trusting the result, and tying the output to a deployment decision through a validity guarantee rather than a decorative percentage.
+
+I am not claiming prior deep expertise in invariant causal prediction. What I have is the habit of treating evaluation design as first-class research, some hospital-adjacent work including a procedures dashboard at KFSH & RC and an emergency-department demand model at Fyris AI, and enough industry time to know I left a constrained analyst role because I needed room to follow a problem properly.
+
+I want to do this at the NYU Graduate School of Arts and Science because the object of study is here. NYUTron and Lang1 were built and deployed at NYU Langone. Eric Oermann's group has been publishing on site-linked failure modes since the 2018 chest X-ray work. Kyunghyun Cho and Rajesh Ranganath approach the surrounding question from philosophical and formal directions I want to be pushed by. The Medical School Track is what makes clinical collaboration and multi-site EHR access a plan rather than a hope.
+
+Whether I stay in academia after is open. Whether the work should matter to a medical department in a few years is not.
+
+---
+
+**Word count:** ~575
+**Four asks:** covered.
+**Why this is the consolidation candidate:** keeps the hook, one biographical hinge (compound + bioethics contact), concrete method without overclaiming, NYU-specific, ends in his register. Shorter than A/B, so room to add one sentence if a PI name or paper title needs to land harder.
